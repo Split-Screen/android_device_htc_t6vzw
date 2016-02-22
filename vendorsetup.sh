@@ -1,1 +1,1 @@
-add_lunch_combo pac_t6vzw-userdebug
+add_lunch_combo cm_t6vzw-eng
